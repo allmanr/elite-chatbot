@@ -1,0 +1,4 @@
+Create a new git branch: git checkout -b "your_branch_name"
+
+    - Branches off of the current branch's commit
+    - Do your modifications on your new branch, then merge
